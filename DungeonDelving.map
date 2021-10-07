@@ -167,440 +167,413 @@
 ( -584 -1136 48 ) ( -583 -1136 48 ) ( -584 -1136 49 ) 128_brown_1 [ -1 0 0 24 ] [ 0 0 -1 -80 ] 0 1 1
 ( -584 -1136 48 ) ( -584 -1136 49 ) ( -584 -1135 48 ) 128_brown_1 [ 0 1 0 -80 ] [ 0 0 -1 -80 ] 0 1 1
 }
+// brush 18
+{
+( -904 -3208 1152 ) ( -904 -3207 1152 ) ( -904 -3208 1153 ) 128_brown_1 [ 0 -1 0 -72 ] [ 0 0 -1 16 ] 0 1 1
+( 168 -4280 1152 ) ( 168 -4280 1153 ) ( 169 -4280 1152 ) 128_brown_1 [ 1 0 0 24 ] [ 0 0 -1 16 ] 0 1 1
+( 168 -3208 1152 ) ( 169 -3208 1152 ) ( 168 -3207 1152 ) 128_brown_1 [ -1 0 0 -24 ] [ 0 -1 0 -72 ] 0 1 1
+( 296 -3080 1184 ) ( 296 -3079 1184 ) ( 297 -3080 1184 ) 128_brown_1 [ 1 0 0 24 ] [ 0 -1 0 -72 ] 0 1 1
+( 296 -3080 1184 ) ( 297 -3080 1184 ) ( 296 -3080 1185 ) 128_brown_1 [ -1 0 0 -24 ] [ 0 0 -1 16 ] 0 1 1
+( 296 -3080 1184 ) ( 296 -3080 1185 ) ( 296 -3079 1184 ) 128_brown_1 [ 0 1 0 72 ] [ 0 0 -1 16 ] 0 1 1
+}
 }
 // entity 1
-{
-"classname" "info_player_start"
-"origin" "-560 -480 40"
-}
-// entity 2
-{
-"classname" "info_player_deathmatch"
-"origin" "-112 -1008 40"
-"angle" "90"
-}
-// entity 3
-{
-"classname" "info_player_deathmatch"
-"origin" "-176 -1008 40"
-"angle" "90"
-}
-// entity 4
-{
-"classname" "info_player_deathmatch"
-"origin" "-240 -1008 40"
-"angle" "90"
-}
-// entity 5
-{
-"classname" "info_player_deathmatch"
-"origin" "-304 -1008 40"
-"angle" "90"
-}
-// entity 6
-{
-"classname" "info_player_deathmatch"
-"origin" "-368 -1008 40"
-"angle" "90"
-}
-// entity 7
-{
-"classname" "info_player_deathmatch"
-"origin" "-432 -1008 40"
-"angle" "90"
-}
-// entity 8
 {
 "classname" "weapon_rocketlauncher"
 "origin" "-304 -480 16"
 }
-// entity 9
+// entity 2
 {
 "classname" "item_rockets"
 "origin" "816 -304 16"
 }
-// entity 10
+// entity 3
 {
 "classname" "item_rockets"
 "origin" "752 -304 16"
 }
-// entity 11
+// entity 4
 {
 "classname" "item_rockets"
 "origin" "736 -304 16"
 }
-// entity 12
+// entity 5
 {
 "classname" "item_rockets"
 "origin" "720 -304 16"
 }
-// entity 13
+// entity 6
 {
 "classname" "item_rockets"
 "origin" "704 -304 16"
 }
-// entity 14
+// entity 7
 {
 "classname" "item_rockets"
 "origin" "688 -304 16"
 }
-// entity 15
+// entity 8
 {
 "classname" "item_rockets"
 "origin" "672 -304 16"
 }
-// entity 16
+// entity 9
 {
 "classname" "item_rockets"
 "origin" "656 -304 16"
 }
-// entity 17
+// entity 10
 {
 "classname" "item_rockets"
 "origin" "640 -304 16"
 }
-// entity 18
+// entity 11
 {
 "classname" "item_rockets"
 "origin" "624 -304 16"
 }
-// entity 19
+// entity 12
 {
 "classname" "item_rockets"
 "origin" "608 -304 16"
 }
-// entity 20
+// entity 13
 {
 "classname" "item_rockets"
 "origin" "592 -304 16"
 }
-// entity 21
+// entity 14
 {
 "classname" "item_rockets"
 "origin" "576 -304 16"
 }
-// entity 22
+// entity 15
 {
 "classname" "item_rockets"
 "origin" "560 -304 16"
 }
-// entity 23
+// entity 16
 {
 "classname" "item_rockets"
 "origin" "544 -304 16"
 }
-// entity 24
+// entity 17
 {
 "classname" "item_rockets"
 "origin" "528 -304 16"
 }
-// entity 25
+// entity 18
 {
 "classname" "item_rockets"
 "origin" "512 -304 16"
 }
-// entity 26
+// entity 19
 {
 "classname" "item_rockets"
 "origin" "496 -304 16"
 }
-// entity 27
+// entity 20
 {
 "classname" "item_rockets"
 "origin" "480 -304 16"
 }
-// entity 28
+// entity 21
 {
 "classname" "item_rockets"
 "origin" "464 -304 16"
 }
-// entity 29
+// entity 22
 {
 "classname" "item_rockets"
 "origin" "448 -304 16"
 }
-// entity 30
+// entity 23
 {
 "classname" "item_rockets"
 "origin" "432 -304 16"
 }
-// entity 31
+// entity 24
 {
 "classname" "item_rockets"
 "origin" "416 -304 16"
 }
-// entity 32
+// entity 25
 {
 "classname" "item_rockets"
 "origin" "400 -304 16"
 }
-// entity 33
+// entity 26
 {
 "classname" "item_rockets"
 "origin" "384 -304 16"
 }
-// entity 34
+// entity 27
 {
 "classname" "item_rockets"
 "origin" "368 -304 16"
 }
-// entity 35
+// entity 28
 {
 "classname" "item_rockets"
 "origin" "352 -304 16"
 }
-// entity 36
+// entity 29
 {
 "classname" "item_rockets"
 "origin" "336 -304 16"
 }
-// entity 37
+// entity 30
 {
 "classname" "item_rockets"
 "origin" "320 -304 16"
 }
-// entity 38
+// entity 31
 {
 "classname" "item_rockets"
 "origin" "304 -304 16"
 }
-// entity 39
+// entity 32
 {
 "classname" "item_rockets"
 "origin" "288 -304 16"
 }
-// entity 40
+// entity 33
 {
 "classname" "item_rockets"
 "origin" "272 -304 16"
 }
-// entity 41
+// entity 34
 {
 "classname" "item_rockets"
 "origin" "256 -304 16"
 }
-// entity 42
+// entity 35
 {
 "classname" "item_health"
 "origin" "-640 184 232"
 }
-// entity 43
+// entity 36
 {
 "classname" "item_health"
 "origin" "-632 24 16"
 }
-// entity 44
+// entity 37
 {
 "classname" "item_health"
 "origin" "-624 24 16"
 }
-// entity 45
+// entity 38
 {
 "classname" "item_health"
 "origin" "-616 24 16"
 }
-// entity 46
+// entity 39
 {
 "classname" "item_health"
 "origin" "-608 24 16"
 }
-// entity 47
+// entity 40
 {
 "classname" "item_health"
 "origin" "-600 24 16"
 }
-// entity 48
+// entity 41
 {
 "classname" "item_health"
 "origin" "-592 24 16"
 }
-// entity 49
+// entity 42
 {
 "classname" "item_health"
 "origin" "-584 24 16"
 }
-// entity 50
+// entity 43
 {
 "classname" "item_health"
 "origin" "-576 24 16"
 }
-// entity 51
+// entity 44
 {
 "classname" "item_health"
 "origin" "-568 24 16"
 }
-// entity 52
+// entity 45
 {
 "classname" "item_health"
 "origin" "-560 24 16"
 }
-// entity 53
+// entity 46
 {
 "classname" "item_health"
 "origin" "-552 24 16"
 }
-// entity 54
+// entity 47
 {
 "classname" "item_health"
 "origin" "-544 24 16"
 }
-// entity 55
+// entity 48
 {
 "classname" "item_health"
 "origin" "-536 24 16"
 }
-// entity 56
+// entity 49
 {
 "classname" "item_health"
 "origin" "-528 24 16"
 }
-// entity 57
+// entity 50
 {
 "classname" "item_health"
 "origin" "-520 24 16"
 }
-// entity 58
+// entity 51
 {
 "classname" "item_health"
 "origin" "-512 24 16"
 }
-// entity 59
+// entity 52
 {
 "classname" "item_health"
 "origin" "-504 24 16"
 }
-// entity 60
+// entity 53
 {
 "classname" "item_health"
 "origin" "-496 24 16"
 }
-// entity 61
+// entity 54
 {
 "classname" "item_health"
 "origin" "-488 24 16"
 }
-// entity 62
+// entity 55
 {
 "classname" "item_health"
 "origin" "-480 24 16"
 }
-// entity 63
+// entity 56
 {
 "classname" "item_health"
 "origin" "-472 24 16"
 }
-// entity 64
+// entity 57
 {
 "classname" "item_health"
 "origin" "-464 24 16"
 }
-// entity 65
+// entity 58
 {
 "classname" "item_health"
 "origin" "-456 24 16"
 }
-// entity 66
+// entity 59
 {
 "classname" "item_health"
 "origin" "-448 24 16"
 }
-// entity 67
+// entity 60
 {
 "classname" "item_health"
 "origin" "-440 24 16"
 }
-// entity 68
+// entity 61
 {
 "classname" "item_health"
 "origin" "-432 24 16"
 }
-// entity 69
+// entity 62
 {
 "classname" "item_health"
 "origin" "-424 24 16"
 }
-// entity 70
+// entity 63
 {
 "classname" "item_health"
 "origin" "-416 24 16"
 }
-// entity 71
+// entity 64
 {
 "classname" "item_health"
 "origin" "-408 24 16"
 }
-// entity 72
+// entity 65
 {
 "classname" "item_health"
 "origin" "-400 24 16"
 }
-// entity 73
+// entity 66
 {
 "classname" "item_health"
 "origin" "-392 24 16"
 }
-// entity 74
+// entity 67
 {
 "classname" "item_health"
 "origin" "-384 24 16"
 }
-// entity 75
+// entity 68
 {
 "classname" "item_health"
 "origin" "-376 24 16"
 }
-// entity 76
+// entity 69
 {
 "classname" "item_health"
 "origin" "-368 24 16"
 }
-// entity 77
+// entity 70
 {
 "classname" "item_health"
 "origin" "-360 24 16"
 }
-// entity 78
+// entity 71
 {
 "classname" "item_health"
 "origin" "-352 24 16"
 }
-// entity 79
+// entity 72
 {
 "classname" "item_health"
 "origin" "-344 24 16"
 }
-// entity 80
+// entity 73
 {
 "classname" "item_health"
 "origin" "-640 232 232"
 }
-// entity 81
+// entity 74
 {
 "classname" "item_health"
 "origin" "-640 128 232"
 }
-// entity 82
+// entity 75
 {
 "classname" "item_health"
 "origin" "-1040 160 136"
 }
-// entity 83
+// entity 76
 {
 "classname" "item_health"
 "origin" "-1040 248 136"
 }
-// entity 84
+// entity 77
 {
 "classname" "item_armor1"
 "origin" "-928 288 136"
 }
-// entity 85
+// entity 78
 {
 "classname" "item_armor2"
 "origin" "-848 288 136"
 }
-// entity 86
+// entity 79
 {
 "classname" "item_armorInv"
 "origin" "-936 128 136"
+}
+// entity 80
+{
+"classname" "info_player_start"
+"origin" "-184 -3584 1208"
 }
