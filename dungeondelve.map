@@ -518,3 +518,25 @@
 "classname" "item_health"
 "origin" "-1520 -1584 448"
 }
+// entity 49
+{
+"classname" "info_player_deathmatch"
+"origin" "-1904 -2256 40"
+}
+// entity 50
+{
+"classname" "info_player_deathmatch"
+"origin" "-1936 -624 40"
+}
+// entity 51
+{
+"classname" "info_player_deathmatch"
+"origin" "-16 -912 40"
+"angle" "180"
+}
+// entity 52
+{
+"classname" "info_player_deathmatch"
+"origin" "-16 -2416 40"
+"angle" "180"
+}
