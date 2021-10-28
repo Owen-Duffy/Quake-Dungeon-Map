@@ -698,12 +698,12 @@
 // entity 35
 {
 "classname" "item_shells"
-"origin" "-448 -2544 16"
+"origin" "-336 -2544 16"
 }
 // entity 36
 {
 "classname" "weapon_supershotgun"
-"origin" "-576 -2704 16"
+"origin" "-576 -2800 16"
 "angle" "90"
 }
 // entity 37
@@ -1013,145 +1013,4 @@
 {
 "classname" "light"
 "origin" "56 56 248"
-"light" "1000"
-}
-// entity 97
-{
-"classname" "light"
-"origin" "-1992 24 216"
-"angle" "90"
-"light" "1000"
-}
-// entity 98
-{
-"classname" "light"
-"origin" "-1992 -3176 216"
-"light" "800"
-}
-// entity 99
-{
-"classname" "light"
-"origin" "-72 -3128 216"
-"light" "800"
-"wait" "2"
-}
-// entity 100
-{
-"classname" "light"
-"origin" "-440 -2680 200"
-"light" "800"
-"wait" "2"
-}
-// entity 101
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-1024 -3212 172"
-}
-// entity 102
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-1024 60 172"
-"light" "500"
-}
-// entity 103
-{
-"classname" "light"
-"origin" "-600 -600 216"
-"light" "1000"
-}
-// entity 104
-{
-"classname" "light"
-"origin" "-360 -2792 520"
-"light" "6000"
-"wait" "2"
-}
-// entity 105
-{
-"classname" "light"
-"origin" "-1024 -2680 520"
-"light" "2000"
-"wait" "2"
-}
-// entity 106
-{
-"classname" "light"
-"origin" "-1000 -1576 600"
-"light" "2000"
-"wait" "2"
-}
-// entity 107
-{
-"classname" "light"
-"origin" "-312 -2072 520"
-"light" "2000"
-"wait" "2"
-}
-// entity 108
-{
-"classname" "light"
-"origin" "-1520 -2080 520"
-"light" "2000"
-"wait" "2"
-}
-// entity 109
-{
-"classname" "light"
-"origin" "8 -1568 152"
-"light" "800"
-"wait" "2"
-}
-// entity 110
-{
-"classname" "light"
-"origin" "16 -1568 512"
-"light" "300"
-"wait" "2"
-}
-// entity 111
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-1376 60 172"
-"light" "500"
-}
-// entity 112
-{
-"classname" "light_torch_small_walltorch"
-"origin" "-656 60 172"
-"light" "500"
-}
-// entity 113
-{
-"classname" "light"
-"origin" "-1000 -1576 160"
-"light" "600"
-"wait" "2"
-}
-// entity 114
-{
-"classname" "light"
-"origin" "-1976 -1568 152"
-"light" "800"
-"wait" "2"
-}
-// entity 115
-{
-"classname" "light"
-"origin" "-1024 -424 520"
-"light" "2000"
-"wait" "2"
-}
-// entity 116
-{
-"classname" "light"
-"origin" "-312 -1208 520"
-"light" "2000"
-"wait" "2"
-}
-// entity 117
-{
-"classname" "light"
-"origin" "-1520 -1216 520"
-"light" "2000"
-"wait" "2"
 }

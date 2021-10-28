@@ -1063,7 +1063,7 @@
 {
 "classname" "light"
 "origin" "-360 -2792 520"
-"light" "6000"
+"light" "1000"
 "wait" "2"
 }
 // entity 105
@@ -1154,4 +1154,18 @@
 "origin" "-1520 -1216 520"
 "light" "2000"
 "wait" "2"
+}
+// entity 118
+{
+"classname" "light"
+"origin" "-1608 -2792 520"
+"light" "1000"
+"wait" "2"
+}
+// entity 119
+{
+"classname" "light"
+"origin" "-1576 -472 600"
+"angle" "90"
+"light" "1000"
 }
